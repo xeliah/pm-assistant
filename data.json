@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "id": "1739914202153kgffys7rf",
+      "title": "WIP - Chat with Johnny on Intercom AI",
+      "priority": "high",
+      "category": "Meeting",
+      "deadline": "2025-02-19",
+      "createdAt": "2025-02-18T21:30:02.153Z",
+      "completed": true
+    },
+    {
+      "id": "1739914202153nv5x1l5bs",
+      "title": "WIP - Prepare Onboarding Portal Presentation",
+      "priority": "high",
+      "category": "Presentation",
+      "deadline": "2025-02-19",
+      "createdAt": "2025-02-18T21:30:02.153Z",
+      "completed": true
+    },
+    {
+      "id": "1739915016223r3be52nfq",
+      "title": "Study Amplitude",
+      "priority": "medium",
+      "category": "Research",
+      "deadline": "2025-02-21",
+      "createdAt": "2025-02-18T21:43:36.223Z",
+      "completed": false
+    },
+    {
+      "id": "1739915016223dqcn1ig98",
+      "title": "Map Amplitude Events",
+      "priority": "high",
+      "category": "Product Development",
+      "deadline": "2025-02-25",
+      "createdAt": "2025-02-18T21:43:36.223Z",
+      "completed": false
+    },
+    {
+      "id": "1739916444841c30xa3uh6",
+      "title": "Open Jira Ticket for IDV Chat Integration",
+      "priority": "medium",
+      "category": "Product Development",
+      "deadline": "2025-02-19",
+      "createdAt": "2025-02-18T22:07:24.841Z",
+      "completed": false
+    },
+    {
+      "id": "19f5098f-26ac-8138-a23e-c1df82f80dae",
+      "title": "Schedule Dentist Appointments",
+      "priority": "medium",
+      "category": "Other",
+      "completed": false,
+      "notionId": "19f5098f-26ac-8138-a23e-c1df82f80dae",
+      "additionalFields": {
+        "Time Allotted": "10 Minutes",
+        "Family Member": [
+          "Nat"
+        ]
+      }
+    },
+    {
+      "id": "19f5098f-26ac-81bc-9ce4-d91633b0e6a6",
+      "title": "Recurrent Task 1 (Weekly)",
+      "priority": "medium",
+      "category": "Other",
+      "completed": false,
+      "notionId": "19f5098f-26ac-81bc-9ce4-d91633b0e6a6",
+      "additionalFields": {
+        "Family Member": []
+      }
+    },
+    {
+      "id": "19f5098f-26ac-81ea-946d-c1393c8f0ea3",
+      "title": "Recurrent Weekly Task",
+      "priority": "medium",
+      "category": "Other",
+      "completed": false,
+      "notionId": "19f5098f-26ac-81ea-946d-c1393c8f0ea3"
+    }
+  ],
+  "context": [],
+  "lastUpdate": "2025-03-05T08:57:36.384Z"
+}
